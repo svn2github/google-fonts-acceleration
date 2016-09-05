@@ -2,14 +2,11 @@
 
 Contributors:cqdaidong
 
-Donate link: http://www.iGeekLab.com/
-
-Tags:Google,CDN,加速,字体,Gravatar,公共库,字体库
-
+Donate link: http://guowen.party/
 Requires at least:1.0
 
-Tested up to: 4.4.2
-Stable tag: 4.4.2
+Tested up to: 4.6
+Stable tag: 4.6
 License: GPLv2 or later
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
