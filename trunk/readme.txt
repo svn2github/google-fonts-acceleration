@@ -11,11 +11,11 @@ License: GPLv2 or later
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 
-本插件可针对中国大陆地区访客较多的网站调用的Google前端库以及字体库服务和Gravatar头像服务进行替换加速,并且支持SSL（https）调用加速源，本插件支持以后的所有Wordpress版本更新，无论您使用的什么版本Wordpress都可以使用本插件，所以请无视“未在您的WordPress版本中测试”提示。
+
 
 == Description ==
 
-本插件可针对中国大陆地区访客较多的网站调用的Google前端库以及字体库服务和Gravatar头像服务进行替换加速,并且支持SSL（https）调用加速源。
+本插件可针对中国大陆地区访客较多的网站调用的Google前端库以及字体库服务和Gravatar头像服务进行替换加速,并且支持SSL（https）调用加速源，本插件支持以所有Wordpress版本更新，无论您使用的什么版本Wordpress都可以使用本插件，所以请无视“未在您的WordPress版本中测试”提示。
 
 == Installation ==
 
@@ -43,8 +43,5 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 【1.7 】更换了我们的全新加速源地址,并且支持SSL加密调用加速源，解决之前不支持SSL调用，使得Https访问网站提示风险的问题。（之前的加速源依然有效，但不支持SSL）
 
-== Upgrade Notice ==
 
-= 
-1.7=
-* 更换了我们的全新加速源地址,并且支持SSL加密调用加速源，解决之前不支持SSL调用，使得Https访问网站提示风险的问题。（之前的加速源依然有效，但不支持SSL）
+【1.8 】听说360停止Google公共库加速服务了？手动滑稽2333
