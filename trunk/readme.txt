@@ -11,6 +11,7 @@ License: GPLv2 or later
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 
+【两年稳定保证,永久免费服务】
 
 
 == Description ==
