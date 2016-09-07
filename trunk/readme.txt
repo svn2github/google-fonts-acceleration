@@ -11,7 +11,7 @@ License: GPLv2 or later
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 
-支持SSL(https)，两年稳定保证,永久免费服务。私有加速源，360前端库停止服务对本插件无任何影响。本插件可免费针对面对中国大陆地区用户的网站调用的Google前端库服务以及字体库服务和Gravatar头像服务进行替换加速。
+支持https，两年稳定保证,永久免费服务。私有加速源，360前端库停止服务对本插件无任何影响。
 
 == Description ==
 
