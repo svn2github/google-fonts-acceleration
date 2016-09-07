@@ -11,12 +11,11 @@ License: GPLv2 or later
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
 
 
-【两年稳定保证,永久免费服务】
-
+两年稳定保证,永久免费服务。私有加速源，360前端库停止服务对本插件无任何影响。
 
 == Description ==
 
-本插件可针对中国大陆地区访客较多的网站调用的Google前端库以及字体库服务和Gravatar头像服务进行替换加速,并且支持SSL（https）调用加速源，本插件支持以所有Wordpress版本更新，无论您使用的什么版本Wordpress都可以使用本插件，所以请无视“未在您的WordPress版本中测试”提示。
+【两年稳定保证,永久免费服务】本插件可免费针对面对中国大陆地区用户的网站调用的Google前端库服务以及字体库服务和Gravatar头像服务进行替换加速,且支持SSL加密调用加速源，感谢屌鸡提供镜像加速服务器支持，本插件的加速源服务器全部为私有，360
 
 == Installation ==
 
