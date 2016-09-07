@@ -2,7 +2,7 @@
 /*
 	Plugin Name:谷歌字体与Gravatar头像加速
 	Plugin URI: http://guowen.party/
-	Description:本插件可针对面向中国大陆地区用户提供服务的网站所调用的Google前端库服务以及字体库服务和Gravatar头像服务进行替换加速，且支持SSL协议。感谢科大LUG提供镜像支持，360停止前端公共库服务对本插件没有任何影响。
+	Description:本插件可针对中国大陆地区网站对Google前端库和Gravatar头像服务进行替换加速，且支持SSL协议。感谢科大LUG提供镜像支持，360停止前端公共库服务对本插件没有任何影响。
 	Version: 1.9
 	Author: cqdaidong
 	Author URI: http://guowen.party/
