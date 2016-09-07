@@ -9,13 +9,15 @@ Tested up to: 4.6
 Stable tag: 4.6
 License: GPLv2 or later
 License URI:http://www.gnu.org/licenses/gpl-2.0.html
-本插件可针对中国大陆地区网站对Google前端库和Gravatar头像服务进行替换加速，且支持SSL协议。
+本插件可针对中国大陆地区网站对Google前端库与Gravatar头像服务进行替换加速，且支持SSL协议。
 
 == Description ==
 
-本插件可针对中国大陆地区网站对Google前端库和Gravatar头像服务进行替换加速，且支持SSL协议。感谢科大LUG提供镜像支持，360停止前端公共库服务对本插件没有任何影响。
+
+本插件可针对中国大陆地区网站对Google前端库与Gravatar头像服务进行替换加速，且支持SSL协议。感谢科大LUG提供镜像支持，360停止前端公共库服务对本插件没有任何影响。
 
 == Installation ==
+
 
 
 上传插件到/wp-content/plugins/目录
@@ -26,9 +28,11 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 == Frequently Asked Questions ==
 
 
+
 加速失败请先确认是否有启用其他同类插件或者代码导致互相冲突，如果您能提供更快速的加速源地址并且愿意分享可联系我，我们将增加多个加速源地址切换功能。  
 
 == Screenshots ==
+
 
 启用插件即可自动加速,无设置界面。
 
@@ -45,4 +49,4 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 【1.8 】听说360停止Google公共库加速服务了？手动滑稽2333
 
 
-【1.9】采用中国科学技术大学Linux用户协会提供的镜像服务器进行加速访问。
+【1.9 】采用中国科学技术大学Linux用户协会提供的镜像服务器进行加速访问。
