@@ -28,7 +28,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 == Frequently Asked Questions ==
 
 
-加速失败请先确认是否有启用其他同类插件或者代码导致互相冲突，如果您能提供更快速的加速源地址并且愿意分享可邮件联系我，我们将增加多个加速源地址切换功能。   邮箱：cqdaidong@gmail.com
+加速失败请先确认是否有启用其他同类插件或者代码导致互相冲突，如果您能提供更快速的加速源地址并且愿意分享可联系我，我们将增加多个加速源地址切换功能。  
 
 == Screenshots ==
 
